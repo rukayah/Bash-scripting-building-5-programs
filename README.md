@@ -1,0 +1,1 @@
+git remote add origin https://github.com/rukayah/Bash-scripting-building-5-programs.git
