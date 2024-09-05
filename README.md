@@ -1,4 +1,4 @@
-# Building five different programs using bash interpreter script 
+# Building three different programs using bash interpreter script 
 You can run commands in the terminal or put them in a file to be run as a script. Bash stands for bourne-again shell which sh stands for shell.
 
 ## The first program is questionnaire.sh
@@ -18,3 +18,8 @@ You can run commands in the terminal or put them in a file to be run as a script
 * The sleep command is set to 1 to slow down the counting of the numbers
 * The building of this program demonstarte how to use flow statement in bash scripting
 
+## The third program is bingo.sh
+
+* This program enable you to generate random numbers from 0 to 75
+* use ./bingo.sh with bash interpreter to run the file
+* This program demonstrate use of inbuilt commands and arithmetic operations
